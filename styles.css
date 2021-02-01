@@ -1,3 +1,8 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -57,11 +62,9 @@ a {
 }
 
 .section {
-    position: absolute;
-    width: 1320px;
-    height: 634px;
-    left: 60px;
-    top: 186px;
+    width: 90%;
+    height: 80%;
+    margin: 0 auto;
     background-color: #fffaf3;
 }
 
